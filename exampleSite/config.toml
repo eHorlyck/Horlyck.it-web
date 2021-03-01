@@ -103,7 +103,7 @@ weight = 8
 [params]
 author = "Emil Hørlyck"
 description = "Responsive Multipurpose Parallax Hugo Template"
-google_analytics_id = ""
+google_analytics_id = "G-WSSGJ4GKJ8"
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
