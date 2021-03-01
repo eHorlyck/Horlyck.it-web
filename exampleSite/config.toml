@@ -144,10 +144,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+link = "#https://twitter.com/horlyck"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#https://www.linkedin.com/in/emilhorlyck/"
