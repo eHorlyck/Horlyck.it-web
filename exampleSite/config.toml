@@ -102,7 +102,7 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "Emil Hørlyck"
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Tekniske løsninger tilpasset til dit behov"
 google_analytics_id = "G-WSSGJ4GKJ8"
 logo = "images/HIT_logo_512_flat_trans.png"
 post_share = true
