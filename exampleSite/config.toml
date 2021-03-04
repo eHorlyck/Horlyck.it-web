@@ -14,45 +14,45 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Om os"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "ydelser"
 pre = "#"
 url = "services"
 weight = 2
-[[Languages.en.menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "portfolio"
+#pre = "#"
+#url = "portfolio"
+#weight = 3
+#[[Languages.en.menu.main]]
+#name = "team"
+#pre = "#"
+#url = "team"
+#weight = 4
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#pre = "#"
+#url = "pricing"
+#weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Kontakt"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#pre = ""
+#url = "https://themefisher.com/"
+#weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
