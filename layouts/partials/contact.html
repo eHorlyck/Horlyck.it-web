@@ -37,7 +37,24 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+				
+				<!-- Hubspot contactform -->
+				
+				<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+				<script>
+ 					hbspt.forms.create({
+					portalId: "14540359",
+					formId: "8a85723d-8271-494d-a4ee-af4a7bbff4da"
+					});
+				</script>
+				
+				
+				
+				<!-- Hiding original contact form
+
 				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
+					
+					<!-- Hiding original contact form
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
 					</div>
@@ -55,6 +72,9 @@
 							value="{{ .submit }}">{{ .submit }}</button>
 					</div>
 				</form>
+				-->
+
+
 			</div>
 			{{ end }}
 			{{ else }}
