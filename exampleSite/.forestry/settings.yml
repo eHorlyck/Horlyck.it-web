@@ -7,6 +7,12 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
+  path: exampleSite/content/dansk/blog
+  label: Posts (da)
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
