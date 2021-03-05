@@ -1,10 +1,8 @@
 ---
-#Todo: Translate back to english
-
 contact:
   enable: true
-  title: Kontakt os
-  subtitle: Kontaktinformation
+  title: Contact
+  subtitle: contact information
   content: ''
   contact_list:
   - icon: ti-location-pin

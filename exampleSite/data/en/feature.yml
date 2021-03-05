@@ -1,12 +1,10 @@
-#Todo: Translate back to english
 ---
 feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Vi leverer digitale ydelser.
-  content: 'Vi arbejder både med at rådgive om og udføre digitale løsninger. Nogle
-    af de vigtigste punkter for vores arbejde er beskrevet her. '
+  title: We deliver digital services.
+  content: 'We deliver both consulting and digital solutions. You can find a description of our cornerstones below.'
   feature_item:
   - title: Globalt potentiale
     icon: ti-world

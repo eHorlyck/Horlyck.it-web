@@ -1,14 +1,12 @@
 ---
-#Todo: Translate back to english
-
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Hørlyck IT
-  content: 'Personlig rådgiving og professionelle løsninger. '
+  content: 'Personal consulting and professional solutions.'
   button:
     enable: true
-    label: Læs mere
+    label: Read more
     link: "#services"

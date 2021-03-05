@@ -7,9 +7,10 @@ feature:
   content: 'Vi arbejder både med at rådgive om og udføre digitale løsninger. Nogle
     af de vigtigste punkter for vores arbejde er beskrevet her. '
   feature_item:
-  - title: Globalt potentiale
+  - title: Global potential
     icon: ti-world
-    content: Verden er digital og vi mener at man fra starten af skal indtænke skalerbarhed
+    content: Our everyday life is both digital and global. Therefore we believe the scalability has to be addressed from the beginning.
+    #TODO: translate to english
   - title: Brugervenlighed
     icon: ti-panel
     content: Kort sagt så skal vi være nørdede så du ikke behøver. Vi har et stort
