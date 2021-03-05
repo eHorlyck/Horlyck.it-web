@@ -1,5 +1,5 @@
 baseURL = "https://www.horlyck.it"
-disableLanguages = []
+disableLanguages = ["fr"]
 defaultContentLanguage = "da"
 disqusShortname = ""
 paginate = "6"
