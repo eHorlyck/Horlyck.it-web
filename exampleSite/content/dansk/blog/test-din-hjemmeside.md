@@ -21,7 +21,17 @@ Når vi så taler om hvor hurtig den er så er der ofte tre ting du kigger efter
 2. Hvornår er der meningsfyldt indhold på skærmen.
 3. Hvornår kan du bruge hjemmeside.
 
+Hver af de tre tider er relevante for om nruger bliver på hjemmesiden eller smutter igen. Hvor mange der forlader siden med det samme, beskriver man ofte som Bounce rate. Altså hviklen rate af besøgendende forlader siden før den er loadet færdig. 6% af brugerne der venter 1 sekund forlader siden før den er loaded. Men lader du dine brugere vente bare 4 sekunder er det tal steget til 24%.
 
+
+![img](../../../static/images/blog/test-din-hjemmeside/bounce-rate-statistics.png)
+kilde: [websitebuilderexpert](https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/)
+
+Så der kan vidst ikke herske nogen tvivl om at hurtige loading tider hjælper med at holde på besøgende. For lige at slå pointen helt hjem så skal man også huske på at næsten halvdelen af brugere ikke kommer tilbage til en hjemmeside der ikke perfomer godt.
+
+
+![img](../../../static/images/blog/test-din-hjemmeside/did-you-know.png)
+kilde: [websitebuilderexpert](https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/)
 
 ## Hvad betyder de tal jeg får fra analysen?
 
