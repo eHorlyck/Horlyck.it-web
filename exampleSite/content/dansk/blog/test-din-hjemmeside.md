@@ -1,8 +1,8 @@
 ---
 title: Hvor god er din hjemmeside?
 date: 2021-03-05T14:52:36.000+01:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: images/blog/test-din-hjemmeside/header.webp
+image: images/blog/test-din-hjemmeside/header.jpg
 author: Emil hørlyck
 description: Lad mig vise dig hvordan du kan du se og måle hvor god din hjemmeside er.
 draft: false
