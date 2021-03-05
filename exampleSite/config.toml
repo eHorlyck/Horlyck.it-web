@@ -22,31 +22,31 @@ name = "Om Os"
 pre = "#"
 url = "about"
 weight = 1
-[[Languages.da.menu.main]]
-name = "Ydelser"
-pre = "#"
-url = "services"
-weight = 2
-[[Languages.da.menu.main]]
-name = "Portefolio"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.da.menu.main]]
-name = "Holdet"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.da.menu.main]]
-name = "Priser"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.da.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
+# [[Languages.da.menu.main]]
+# name = "Ydelser"
+# pre = "#"
+# url = "services"
+# weight = 2
+# [[Languages.da.menu.main]]
+# name = "Portefolio"
+# pre = "#"
+# url = "portfolio"
+# weight = 3
+# [[Languages.da.menu.main]]
+# name = "Holdet"
+# pre = "#"
+# url = "team"
+# weight = 4
+# [[Languages.da.menu.main]]
+# name = "Priser"
+# pre = "#"
+# url = "pricing"
+# weight = 5
+# [[Languages.da.menu.main]]
+# name = "blog"
+# pre = "#"
+# url = "blog"
+# weight = 6
 [[Languages.da.menu.main]]
 name = "Kontakt"
 pre = "#"
