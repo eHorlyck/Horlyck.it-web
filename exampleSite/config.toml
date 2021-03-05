@@ -6,6 +6,54 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "Horlyck IT"
+
+# DA language
+
+[Languages.da]
+contentDir = "content/dansk"
+copyright ="Copyright &copy; 2021 Horlyck IT"
+home = "Hjem"
+languageCode = "da-dk"
+languageName = "Da"
+weight = 2
+[[Languages.da.menu.main]]
+name = "Om Os"
+pre = "#"
+url = "about"
+weight = 1
+[[Languages.da.menu.main]]
+name = "Ydelser"
+pre = "#"
+url = "services"
+weight = 2
+[[Languages.da.menu.main]]
+name = "Portefolio"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[Languages.da.menu.main]]
+name = "Holdet"
+pre = "#"
+url = "team"
+weight = 4
+[[Languages.da.menu.main]]
+name = "Priser"
+pre = "#"
+url = "pricing"
+weight = 5
+[[Languages.da.menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 6
+[[Languages.da.menu.main]]
+name = "Kontakt"
+pre = "#"
+url = "contact"
+weight = 7
+
+# En Language
+
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 Horlyck IT"
@@ -48,14 +96,12 @@ name = "Kontakt"
 pre = "#"
 url = "contact"
 weight = 7
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#pre = ""
-#url = "https://themefisher.com/"
-#weight = 8
+
+# FR language
+
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Horlyck IT"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -95,11 +141,9 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+
+# Params
+
 [params]
 author = "Emil Hørlyck"
 description = "Tekniske løsninger tilpasset til dit behov"

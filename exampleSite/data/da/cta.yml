@@ -1,0 +1,12 @@
+---
+cta:
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Stærkt teknisk fundament & eksponentielt potentiale
+  content: 'Vi er ikke låst til en speciel opgavetype. Vi levere både rådgivning og
+    løsninger indenfor en bred vifte af områder. '
+  button:
+    enable: true
+    label: Start et projekt med os
+    link: "#contact"

@@ -1,0 +1,24 @@
+---
+feature:
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: Vi leverer digitale ydelser.
+  content: 'Vi arbejder både med at rådgive om og udføre digitale løsninger. Nogle
+    af de vigtigste punkter for vores arbejde er beskrevet her. '
+  feature_item:
+  - title: Globalt potentiale
+    icon: ti-world
+    content: Verden er digital og vi mener at man fra starten af skal indtænke skalerbarhed
+  - title: Brugervenlighed
+    icon: ti-panel
+    content: Kort sagt så skal vi være nørdede så du ikke behøver. Vi har et stort
+      fokus på at vores løsninger skal være nemme at gå til for brugeren
+  - title: Procesoptimering
+    icon: ti-stats-up
+    content: Det er vigtigt for os at enhver løsning vi kommer med, skal optimere
+      arbejdsgange og skabe værdi.
+  - title: Mennesker i centrum
+    icon: ti-user
+    content: Vi er meget optaget af at fastholde mennesket i centrum. Vi laver løsninger
+      til og for mennesker.

@@ -1,0 +1,17 @@
+---
+about:
+  enable: true
+  title: Om os
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Tilpasset
+    content: I en verden fuld af “one size fits all” mener vi at det er vigtigt at
+      tilpasse hver enkelt løsning til den konkrete situation.
+  - icon: ti-cup
+    title: Professionel
+    content: 'Vi har en professionel tilgang og stolthed omkring hvad vi kaster os
+      ud. Vi tager kun opgaver vi er sikre på at løse til perfektion. '
+  - icon: ti-heart
+    title: Personlig
+    content: Vi er en lille virksomhed der har den personlige kontakt som et bærende
+      element.
