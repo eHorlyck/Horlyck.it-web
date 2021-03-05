@@ -1,31 +1,31 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Sidste oplæg
 - id: readMore
-  translation: Read more
+  translation: Læs mere
 - id: viewAllPost
-  translation: View All Post
+  translation: Se alle oplæg
 - id: share
-  translation: Share
+  translation: Del
 - id: aboutAuthor
-  translation: About author
+  translation: Om forfatter
 - id: authorsPosts
-  translation: Author's posts
+  translation: Forfatters oplæg
 - id: all
-  translation: All
+  translation: Alle
 - id: about
-  translation: About Us
+  translation: Om os
 - id: services
-  translation: Service
+  translation: Ydelser
 - id: portfolio
-  translation: Portfolio
+  translation: Portefolio
 - id: team
-  translation: Team
+  translation: Holdet
 - id: pricing
-  translation: Pricing
+  translation: Priser
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
+  translation: Kontakt
 - id: themefisher
   translation: Themefishers
